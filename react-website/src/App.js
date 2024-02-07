@@ -10,6 +10,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/' exact />
+        <h1>This is a test</h1>
       </Switch>
     </Router>
     </>
